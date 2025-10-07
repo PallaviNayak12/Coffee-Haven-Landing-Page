@@ -14,7 +14,6 @@ This project showcases a stylish homepage with a hero section, navigation bar, a
 
 ---
 
-
 ## 🛠️ Tech Stack
 - **HTML5**
 - **CSS3**
