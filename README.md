@@ -5,7 +5,7 @@ This project showcases a stylish homepage with a hero section, navigation bar, a
 
 --- 
 
-## 🚀 Features
+## 🚀 Features 
 - Attractive full-screen background with a coffee theme.
 - Responsive navigation bar (Home, Menu, About, Contact).
 - Hero section with title, description, and call-to-action buttons.
