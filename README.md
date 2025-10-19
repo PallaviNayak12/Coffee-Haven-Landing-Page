@@ -12,7 +12,7 @@ This project showcases a stylish homepage with a hero section, navigation bar, a
 - Minimalist footer with copyright.
 - Smooth hover effects for interactive buttons.
 
----
+---                     
 
 ## 🛠️ Tech Stack
 - **HTML5**
