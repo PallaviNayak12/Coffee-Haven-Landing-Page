@@ -3,7 +3,7 @@
 A simple and elegant landing page for a coffee shop, built using **HTML & CSS**.  
 This project showcases a stylish homepage with a hero section, navigation bar, and call-to-action buttons.         
 
---- 
+---           
 
 ## 🚀 Features  
 - Attractive full-screen background with a coffee theme.  
