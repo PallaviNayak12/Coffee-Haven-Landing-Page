@@ -11,7 +11,7 @@ This project showcases a stylish homepage with a hero section, navigation bar, a
 - Hero section with title, description, and call-to-action buttons.            
 - Minimalist footer with copyright. 
 - Smooth hover effects for interactive buttons. 
-
+                                             
 ---                     
 
 ## 🛠️ Tech Stack
